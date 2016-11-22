@@ -38,3 +38,7 @@ captures/
 
 # Keystore files
 *.jks
+
+tools/100/
+tools/1000/
+tools/10000/
